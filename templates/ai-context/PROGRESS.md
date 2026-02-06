@@ -1,11 +1,11 @@
-# Development Progress
+# 🚀 Development Progress
 
 ## Completed
 
 ## In Progress
 
-## Next Tasks
-1.
+## Next Task
+Auth module
 
 ## Notes
 
